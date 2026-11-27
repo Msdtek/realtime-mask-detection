@@ -2,6 +2,12 @@
 
 A computer vision & deep learning project for detecting face masks in real time, developed as a course project.
 
+## 📸 Screenshots
+<p align="center">
+  <img src="images/mask1.jpg" width="48%" alt="Real-Time Face Mask Detection 1" />
+  <img src="images/mask2.jpg" width="48%" alt="Real-Time Face Mask Detection 2" />
+</p>
+
 ## 📁 Contents
 - `FINAL_PROJE_RAPOR_GRUP15.ipynb` — Model training, evaluation, and real-time detection notebook
 - `FINAL_PROJE_RAPOR_GRUP15.pdf` — Detailed project report
